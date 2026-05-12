@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - Building modern, reusable, and scalable web applications
 - Skilled in React.js, Next.js, JavaScript, TypeScript, Node.js, Express.js, Prisma ORM, and PostgreSQL
