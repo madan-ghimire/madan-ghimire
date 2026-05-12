@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack JavaScript Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+JavaScript;Prisma+ORM+%7C+PostgreSQL;Learning+Nest.js+and+Backend+Engineering+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+JavaScript;Prisma+ORM+%7C+PostgreSQL;Building+Reusable+and+Scalable+Frontend+UI;Learning+Nest.js+and+Backend+Engineering+🚀" alt="Typing SVG" />
 
 </div>
 
@@ -12,10 +12,11 @@
 
 ## 🚀 About Me
 
-- Building modern and scalable web applications
+- Building modern, reusable, and scalable web applications
 - Skilled in React.js, Next.js, JavaScript, TypeScript, Node.js, Express.js, Prisma ORM, and PostgreSQL
-- Currently learning Nest.js and backend engineering
-- Fast learner and passionate about clean architecture and clean code
+- Focused on creating clean, reusable, and scalable frontend UI architectures
+- Currently learning Nest.js, backend engineering, and scalable system design
+- Fast learner passionate about clean architecture and modern development practices
 
 ---
 
@@ -43,6 +44,6 @@
 
 📫 [GitHub](https://github.com/madan-ghimire) • [LinkedIn](https://www.linkedin.com/in/madan-ghimire-21416a143/)
 
-⭐ Always learning and building 🚀
+⭐ Always learning, building, and improving 🚀
 
 </div>
